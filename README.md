@@ -22,5 +22,5 @@ Aqui está uma visão geral das linguagens mais usadas nos meus repositórios:
 
 
 ## Entre em Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
-- [Email](mailto:seu-email@dominio.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
