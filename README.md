@@ -18,18 +18,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, sempre em busca 
 
 Aqui está uma visão geral das linguagens mais usadas nos meus repositórios:
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&langs_count=6&theme=dracula)
-
-E um resumo das minhas atividades no GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&theme=dracula&count_private=true)
-
-## Projetos em Destaque
-Aqui estão alguns dos projetos que desenvolvi:
-
-- **[Projeto 1](link-para-o-repositorio):** Breve descrição do projeto.
-- **[Projeto 2](link-para-o-repositorio):** Breve descrição do projeto.
-- **[Projeto 3](link-para-o-repositorio):** Breve descrição do projeto.
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&hide=html&langs_count=6&theme=radical)
 
 ## Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
