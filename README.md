@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, sempre em busca 
 
 Aqui está uma visão geral das linguagens mais usadas nos meus repositórios:
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&hide=html&langs_count=8&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&hide=html&langs_count=6&theme=radical)
 
 
 ## Entre em Contato
