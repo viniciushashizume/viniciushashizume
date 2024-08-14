@@ -23,7 +23,7 @@
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario)](https://www.linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:viniciushashizume26@gmail.com)
 
 ---
 
