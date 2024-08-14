@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
 <!-- Adicione mais badges conforme necessário -->
 
 ## Conecte-se comigo
