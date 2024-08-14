@@ -1,11 +1,11 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou [Vinicius Hashizume]
 
 ## Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e programação, sempre em busca de novos desafios e aprendizados. Tenho experiência em diversas linguagens de programação e ferramentas que me permitem construir soluções criativas e eficientes.
 
 ## Linguagens de Programação
-- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **C** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Tecnologias e Ferramentas
