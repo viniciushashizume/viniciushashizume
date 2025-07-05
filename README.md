@@ -1,5 +1,5 @@
-# Olá, eu sou Vinicius Hashizume. 
-# Cursando Ciência da Computação na UTFPR-PG.
+Olá, eu sou Vinicius Hashizume. 
+Cursando Ciência da Computação na UTFPR-PG.
 <br>
 
 <br>
