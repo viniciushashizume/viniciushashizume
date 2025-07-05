@@ -1,4 +1,6 @@
-# Olá, eu sou [Vinicius Hashizume]. Atualmente estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná.
+# Olá, eu sou Vinicius Hashizume. 
+<br>
+Atualmente estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná.
 
 <br>
 <br>
