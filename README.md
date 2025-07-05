@@ -1,6 +1,6 @@
 # Olá, eu sou Vinicius Hashizume. 
 <br>
-Atualmente estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná.
+#Atualmente estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná.
 
 <br>
 <br>
@@ -22,9 +22,11 @@ Atualmente estou cursando Ciência da Computação na Universidade Tecnológica 
 
 | Projeto | Descrição | Tecnologias Utilizadas |
 |---|---|---|
+| **[Sistema de Monitoramento de Alimentadores com integração à IA](https://github.com/viniciushashizume/Projeto-Alimentador-LABRIOT-2)** | Dispositivo IOT ESP8266 que realiza o monitoramento da quantidade de ração dos alimentadores da UTFPR, com integração á tecnologias de IA para determinar os horários de pico. | `C++`, `Arduino`, `MQTT`, `Node-Red`, `Python` ,`Pytorch`, `Flask`|
 | **[Aplicação de técnicas de IA no jogo PACMAN ](https://github.com/viniciushashizume/Cidades-Inteligentes---Pacman)** | Utilizando a plataforma GameMaker, implementou-se algoritmos de busca heurística (A* e busca gulosa) com heurísticas específicas para o comportamento dos fantasmas | `Game Maker Language` |
 | **[Implementação de Parser e Lexer](https://github.com/viniciushashizume/Compiladores-T1)** | Analisador léxico e sintático para a Linguagem de Programação Básica, uma linguagem inspirada em uma calculadora avançada, porém estendida com estruturas de controle (FOR) e operadores lógicos (AND, OR). | `Flex`, `Bison`, `C` |
-| **[Nome do Projeto 3](https://github.com/seu-usuario/nome-do-repositorio-3)** | Uma breve descrição do seu projeto. O que ele faz? Qual foi o objetivo? | `Tecnologia 5`, `Tecnologia 6` |
+| **[Protótipo de Sistema de Gestão para Companhias Aéreas](https://github.com/viniciushashizume/ProjetoIHC)** | Protótipo criado com base em diretrizes da "Interação-Humano-Computador" | `HTML`, `CSS`, `JavaScript` |
+
 
 <br>
 
