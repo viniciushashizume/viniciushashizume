@@ -1,6 +1,6 @@
 # Olá, eu sou Vinicius Hashizume. 
+# Cursando Ciência da Computação na UTFPR-PG.
 <br>
-#Atualmente estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná.
 
 <br>
 <br>
