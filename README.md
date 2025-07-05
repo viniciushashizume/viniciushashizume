@@ -37,7 +37,3 @@ Atualmente estou cursando Ciência da Computação na Universidade Tecnológica 
 <br>
 
 ---
-
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de [Seu Usuário]](https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
