@@ -31,7 +31,7 @@ Olá, eu sou Vinicius Hashizume. Atualmente, estou cursando Ciência da Computa�
 
 | Projeto | Descrição | Tecnologias Utilizadas |
 |---|---|---|
-| **[Nome do Projeto C](https://github.com/seu-usuario/nome-do-repositorio-C)** | Uma breve descrição do seu projeto. O que ele faz? Qual foi o objetivo? | `Tecnologia 11`, `Tecnologia 12` |
+| **[Nome do Projeto C](WIP)** | WIP | WIP|
 <br>
 
 ---
