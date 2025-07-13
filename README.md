@@ -31,7 +31,7 @@ Olá, eu sou Vinicius Hashizume. Atualmente, estou cursando Ciência da Computa�
 
 | Projeto | Descrição | Tecnologias Utilizadas |
 |---|---|---|
-| **[Nome do Projeto C](WIP)** | WIP | WIP|
+| **[WIP](WIP)** | WIP | WIP|
 <br>
 
 ---
