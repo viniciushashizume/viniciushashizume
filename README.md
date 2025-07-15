@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 <a href="README-en.md">Read this page in English 🇬🇧</a>
 </div>
 
