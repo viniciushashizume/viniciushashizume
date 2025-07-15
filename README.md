@@ -1,6 +1,7 @@
 <div align="left">
 <a href="README-en.md">Read this page in English 🇬🇧</a>
 </div>
+<br>
 
 Olá, eu sou Vinicius Hashizume. Atualmente, estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa.
 <br>
