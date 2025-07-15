@@ -1,3 +1,7 @@
+<div align="right">
+<a href="README-en.md">Read this page in English 🇬🇧</a>
+</div>
+
 Olá, eu sou Vinicius Hashizume. Atualmente, estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa.
 <br>
 
@@ -22,7 +26,6 @@ Olá, eu sou Vinicius Hashizume. Atualmente, estou cursando Ciência da Computa�
 | **[Aplicação de técnicas de IA no jogo PACMAN ](https://github.com/viniciushashizume/Cidades-Inteligentes---Pacman)** | Utilizando a plataforma GameMaker, implementou-se algoritmos de busca heurística (A* e busca gulosa) com heurísticas específicas para o comportamento dos fantasmas | `Game Maker Language` |
 | **[Implementação de Parser e Lexer](https://github.com/viniciushashizume/Compiladores-T1)** | Analisador léxico e sintático para a Linguagem de Programação Básica, uma linguagem inspirada em uma calculadora avançada, porém estendida com estruturas de controle (FOR) e operadores lógicos (AND, OR). | `Flex`, `Bison`, `C` |
 | **[Protótipo de Sistema de Gestão para Companhias Aéreas](https://github.com/viniciushashizume/ProjetoIHC)** | Protótipo criado com base em diretrizes da "Interação-Humano-Computador" | `HTML`, `CSS`, `JavaScript` |
-
 
 <br>
 
