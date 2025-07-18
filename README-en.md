@@ -36,6 +36,7 @@ Hello, I'm Vinicius Hashizume. I am currently studying Computer Science at the F
 | Project | Description | Technologies Used |
 |---|---|---|
 | **[Steam Dashboard](https://github.com/viniciushashizume/SteamDashboard)** | Dashboard for analyzing Steam profiles. It allows searching for users by both their numeric ID and their name (vanity URL), displaying profile information, general statistics, and an interactive chart with the 10 most played games. The application's back-end was developed in TypeScript to manage the Steam API's functionality, and the front-end was built with React and Vite (using Tailwind CSS).|`React`, `Typescript`, `Vite`, `Tailwind CSS`|
+| **[Airline Management System](https://github.com/viniciushashizume/ProjetoAvioes)** | Extension of an Airline Management System prototype, with database integration to perform the system's CRUD operations.| `HTML`, `CSS`, `JavaScript`, `mySQL` |
 <br>
 
 ---
