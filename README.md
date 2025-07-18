@@ -21,10 +21,6 @@ Atualmente, cursando Ciência da Computação na Universidade Tecnológica Feder
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
         <br>Java
       </td>
@@ -33,8 +29,8 @@ Atualmente, cursando Ciência da Computação na Universidade Tecnológica Feder
         <br>C++
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
-        <br>C
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
