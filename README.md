@@ -1,71 +1,37 @@
-<div align="right"> 
-  <a href="README-en.md">Read this page in English 🇬🇧</a> 
-</div> 
-<br> 
+<div align="left">  
+  <a href="README-en.md">Read this page in English 🇬🇧</a>  
+</div>  
+<br>
 
-<h1 align="center">Vinicius Hashizume</h1>
-<h3 align="center">Estudante de Ciência da Computação</h3>
+# Vinicius Hashizume
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-hashizume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-hashizume" height="30" width="40" /></a>
-</p>
+Atualmente, cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa.
 
-<p align="center">
-  Atualmente cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR). <br> 
-  Confira meu portfólio completo para mais detalhes sobre meus projetos e habilidades: <br>
-  <strong><a href="https://viniciushashizume.github.io/Portifolio2/">https://viniciushashizume.github.io/Portifolio2/</a></strong>
-</p>
+- **Confira meu portfólio:** [https://viniciushashizume.github.io/Portifolio2/](https://viniciushashizume.github.io/Portifolio2/)
+- **Conecte-se comigo no LinkedIn:** [https://www.linkedin.com/in/vinicius-hashizume](https://www.linkedin.com/in/vinicius-hashizume)
 
 ---
 
-<h2 align="center">Habilidades e Tecnologias</h2>
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="icon" width="65" height="65" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="icon" width="65" height="65" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-        <br>C++
-      </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-        <br>Java
-      </td>
-    </tr>
-  </table>
-</div>
+## 🛠️ Habilidades e Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&theme=default&hide_border=true&langs_count=6" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&theme=default&hide_border=true&langs_count=6" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  </picture>
+  <h3>Linguagens Mais Utilizadas</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&locale=pt-br&theme=vision-friendly-dark" alt="Linguagens Mais Utilizadas"/>
 </div>
 
 ---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viniciushashizume/viniciushashizume/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/viniciushashizume/viniciushashizume/blob/output/github-snake.svg" />
+    <img alt="snake" src="https://github.com/viniciushashizume/viniciushashizume/blob/output/github-snake.svg" />
+  </picture>
+</div>
