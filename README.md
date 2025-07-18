@@ -1,42 +1,89 @@
-<div align="left">
-<a href="README-en.md">Read this page in English 🇬🇧</a>
+<div align="center">
+  <a href="README.md">Leia esta página em Português 🇧🇷</a>
 </div>
 <br>
 
-Olá, eu sou Vinicius Hashizume. Atualmente, estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa.
-<br>
+<div align="center">
+  <h1>Olá 👋, eu sou o Vinicius Hashizume</h1>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciushashizume&label=Profile%20views&color=0e75b6&style=flat" alt="viniciushashizume" /> </p>
+  <h3>Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR)</h3>
+</div>
 
-## 🛠️ Habilidades e Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<br>
+<div align="center">
+  <h2>Conecte-se comigo:</h2>
+  <p>
+    <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meu-linkedin" height="30" width="40" /></a>
+    <a href="mailto:#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="meu-email" height="30" width="40" /></a>
+    <a href="https://viniciushashizume.github.io/Portifolio2/" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/48/ffffff/portfolio.png" alt="meu-portfolio" height="30" width="40" /></a>
+  </p>
+</div>
+
+<div align="center">
+  <h2>🛠️ Habilidades e Tecnologias</h2>
+  <table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <div style="display: inline-block; vertical-align: top; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=viniciushashizume&show_icons=true&theme=dracula&locale=pt-br&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=viniciushashizume&show_icons=true&locale=pt-br&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciushashizume&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="Estatísticas de Linguagens" style="height: 170px;" />
+    </picture>
+  </div>
+  <div style="display: inline-block; vertical-align: top; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&theme=dracula&locale=pt-br" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&locale=pt-br" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciushashizume&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" style="height: 170px;" />
+    </picture>
+  </div>
+</div>
 
 ---
 
-## 🎓 Projetos Acadêmicos
-*Aqui estão alguns dos projetos que desenvolvi durante minha jornada acadêmica.*
-
-| Projeto | Descrição | Tecnologias Utilizadas |
-|---|---|---|
-| **[Sistema de Monitoramento de Alimentadores com integração à IA](https://github.com/viniciushashizume/Projeto-Alimentador-LABRIOT-2)** | Dispositivo IOT ESP8266 que realiza o monitoramento da quantidade de ração dos alimentadores da UTFPR, com integração á tecnologias de IA para determinar os horários de pico. | `C++`, `Arduino`, `MQTT`, `Node-Red`, `Python`, `Pytorch`, `Flask`|
-| **[Aplicação de técnicas de IA no jogo PACMAN ](https://github.com/viniciushashizume/Cidades-Inteligentes---Pacman)** | Utilizando a plataforma GameMaker, implementou-se algoritmos de busca heurística (A* e busca gulosa) com heurísticas específicas para o comportamento dos fantasmas | `Game Maker Language` |
-| **[Implementação de Parser e Lexer](https://github.com/viniciushashizume/Compiladores-T1)** | Analisador léxico e sintático para a Linguagem de Programação Básica, uma linguagem inspirada em uma calculadora avançada, porém estendida com estruturas de controle (FOR) e operadores lógicos (AND, OR). | `Flex`, `Bison`, `C` |
-| **[Protótipo de Sistema de Gestão para Companhias Aéreas](https://github.com/viniciushashizume/ProjetoIHC)** | Extensão do protótipo de um Sistema de Gestão para Companhias Aéreas, com integração a banco de dados para realizar as operações de CRUD do sistema. | `HTML`, `CSS`, `JavaScript`, `mySQL` |
-
+*Aqui estão alguns dos projetos que desenvolvi durante minha jornada acadêmica: <a href="https://viniciushashizume.github.io/Portifolio2/">Portfólio</a>.*
 <br>
 
-## 💻 Projetos Pessoais
-*Estes são alguns dos projetos que criei por conta própria para praticar e explorar novas tecnologias.*
-
-| Projeto | Descrição | Tecnologias Utilizadas |
-|---|---|---|
-| **[Steam Dashboard](https://github.com/viniciushashizume/SteamDashboard)** | Dashboard para análise de perfis da Steam. Permite a busca de usuários tanto por seu ID numérico quanto por nome (vanity URL), exibindo informações do perfil, estatísticas gerais e um gráfico interativo com os 10 jogos mais jogados. O back-end da aplicação foi feito em Typescript para gerenciar o funcionamento da API da Steam e um front-end construído com React e Vite (utilizando o Tailwind CSS).|`React`, `Typescript`, `Vite`, `Tailwind CSS`|
-| **[Sistema de Gestão para Companhias Aéreas](https://github.com/viniciushashizume/ProjetoAvioes)** | Extensão do protótipo do Sistema de Gestão para Companhias Aéreas, com integração à banco de dados para realizar o CRUD do sistema| `HTML`, `CSS`, `JavaScript`, `mySQL` |
-<br>
-
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viniciushashizume/viniciushashizume/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/viniciushashizume/viniciushashizume/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/viniciushashizume/viniciushashizume/blob/output/github-snake.svg" />
+  </picture>
+</div>
