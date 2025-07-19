@@ -3,7 +3,7 @@
 </div>
 <br>
 
-# Vinicius Hashizume
+#Olá, eu sou Vinicius Hashizume
 
 Atualmente, cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa.
 
