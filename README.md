@@ -1,6 +1,6 @@
-<div align="left">  
-  <a href="README-en.md">Read this page in English 🇬🇧</a>  
-</div>  
+<div align="left">
+  <a href="README-en.md">Read this page in English 🇬🇧</a>
+</div>
 <br>
 
 # Vinicius Hashizume
@@ -12,54 +12,53 @@ Atualmente, cursando Ciência da Computação na Universidade Tecnológica Feder
 
 ---
 
-<h2 align="center">Habilidades e Tecnologias</h2>
+<h2 align="center">Habilidades e Tecnologias 🚀</h2>
 <div align="center">
-  <table border="0" cellpadding="10">
-    <tr>
+  <table>
+    <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-        <br>HTML5
-      </td>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <br>Python
+      </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <br>Java
+      </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C++
+      </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-  </table>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 <div align="center">
   <h3>Linguagens Mais Utilizadas</h3>
