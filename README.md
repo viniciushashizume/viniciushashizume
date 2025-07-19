@@ -41,11 +41,11 @@ Atualmente, cursando Ciência da Computação na Universidade Tecnológica Feder
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
         <br>HTML5
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" width="65" height="65" />
         <br>CSS3
       </td>
       <td align="center" width="96">
