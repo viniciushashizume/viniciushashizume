@@ -3,7 +3,7 @@
 </div>
 <br>
 
-# Vinicius Hashizume
+# Hi, I'm Vinicius Hashizume
 
 Currently studying Computer Science at the Federal University of Technology - Paraná (UTFPR), Ponta Grossa Campus.
 
