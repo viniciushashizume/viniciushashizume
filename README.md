@@ -62,7 +62,7 @@ Atualmente, cursando Ciência da Computação na Universidade Tecnológica Feder
 
 <div align="center">
   <h3>Linguagens Mais Utilizadas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&locale=pt-br&theme=vision-friendly-dark" alt="Linguagens Mais Utilizadas"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushashizume&layout=compact&locale=en&theme=vision-friendly-dark"  alt="Linguagens Mais Utilizadas"/>
 </div>
 
 ---
