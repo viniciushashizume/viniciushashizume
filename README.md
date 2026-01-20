@@ -7,7 +7,7 @@
 
 Atualmente, cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa.
 
-- **Confira meu portfólio:** [[https://viniciushashizume.github.io/Portfolio/]((https://viniciushashizume.github.io/dev-showcase/#projetos))
+- **Confira meu portfólio:** [[https://viniciushashizume.github.io/Portfolio/((https://viniciushashizume.github.io/dev-showcase/#projetos))
 - **Conecte-se comigo no LinkedIn:** [https://www.linkedin.com/in/vinicius-hashizume](https://www.linkedin.com/in/vinicius-hashizume)
 
 ---
